@@ -1,0 +1,14 @@
+# React dependencies
+node_modules/
+npm-debug.log*
+
+# Environment variables
+.env
+.env.local
+
+# Build outputs
+build/
+dist/
+
+# OS files
+.DS_Store
