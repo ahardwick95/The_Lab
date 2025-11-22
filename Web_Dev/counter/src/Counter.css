@@ -1,0 +1,53 @@
+.addB{
+    width: 150px;
+    height:150px;
+    position:relative;
+    left:717px;
+    top:-90px;
+    font-size: 35px;
+    text-align: center;
+    color:blue;
+    background-color: black;
+}
+
+.minusB{
+     width: 150px;
+    height:150px;
+    position:relative;
+    left:400px;
+    top:-90px;
+    font-size: 35px;
+    color:blue;
+    background-color: black;
+
+}
+
+
+.block{
+    width: 370px;
+    height:390px;
+    position:relative;
+    left:520px;
+    top:175px;
+    font-size: 35px;
+    color: blue ;
+    text-align: center;
+    background-color: white;
+    border-radius: 15px;;
+
+}
+
+
+.myCount{
+    width: 100px;
+    height:100px;
+    position:relative;
+    left:650px;
+    top:-120px;
+    font-size: 50px;
+    color:blue;
+    text-align: center;
+    background-color: white;
+    border-radius: 15px;;
+
+}
