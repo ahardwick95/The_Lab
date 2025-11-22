@@ -1,0 +1,29 @@
+textarea {
+  width: 500px;
+  height: 150px;
+  padding: 10px;
+  left: 700px;
+  position: relative;
+  font-family: inherit;
+  font-size: 16px;
+  border: 3px solid #4301f8;
+  border-radius: 4px;
+  background-color: white;
+  resize: vertical; /* only allow vertical resizing */
+  white-space: pre-wrap; /* ensures text wraps */
+  word-wrap: break-word; /* breaks long words */
+  color:black /*changes text color*/
+}
+
+.mesL{
+    position: relative;
+    font-size: 15px;
+    
+    left: 875px; /* move right */
+    top: 100px;  /* move down */
+    /* OR */
+    right: 20px; /* move left */
+    bottom: 10px; /* move up */
+    
+    
+}
