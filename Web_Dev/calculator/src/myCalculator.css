@@ -1,0 +1,69 @@
+.theGrid {
+  display: grid; /* buttons will be displayed as grid*/
+  grid-template-columns: repeat(4, 80px); /*  4 buttons per row   */
+  gap: 10px;
+  padding: 20px;
+  position: relative;
+  top:-100px;
+  left:700px;
+}
+.buttonKeys{
+    color:black;
+    padding: 20px;
+    font-size: 15px;
+    border: 1px solid #0ab941;
+    border-radius: 5px;
+    background-color: orange;
+}
+
+.theScreen {
+  text-align: right;
+  /*direction: rtl;*/
+  width:351px;
+  height:75px;
+  color:black;
+  font-size: 28px;
+  border-radius: 5px;
+  position: relative;
+  top: -95px;
+  background-color: rgb(16, 233, 218);
+  left:717px;
+}
+
+
+body {
+  background-color: white;
+ 
+}
+
+.clearScreen{
+
+ width:351px;
+  height:75px;
+  color:white;
+  font-size: 28px;
+  border-radius: 5px;
+  position: relative;
+  background-color: red;
+  top:-90px;
+  left:717px;
+
+}
+
+.calBoard {
+    font-size: 3rem;
+    font-weight: bold;
+    text-align:center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin: 30px 27%;
+    width:400px;
+    height:550px;
+    padding: 20px;
+    position: relative;
+    left:550px;
+    top:405px;
+    background: grey;
+    color: white;
+    border-radius: 35px;
+}
