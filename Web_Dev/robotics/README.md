@@ -1,2 +1,2 @@
-<video>Web_Dev/Assets/Robotics_Loading_Screen.mp4</video>
+<video src="Web_Dev/Assets/Robotics_Loading_Screen.mp4" controls width="600"></video>
 
