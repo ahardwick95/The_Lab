@@ -1,0 +1,17 @@
+.signal-pulse_Robot {
+  display:inline-block;
+  font-size:25px;
+  color:cyan;
+  position:relative;
+  top:-18px;
+  left:46px;
+  will-change: transform, opacity;
+  animation: ping 1.5s ease-out infinite;
+}
+
+
+@keyframes ping {
+  0% { transform: translate(-50%,-50%) scale(.8); opacity: .6; }
+  70% { transform: translate(-50%,-50%) scale(2.5); opacity: 0; }
+  100% { transform: translate(-50%,-50%) scale(2.5); opacity: 0; }
+}
