@@ -1,1 +1,1 @@
-[Demo](Web_Dev/Assets/Robotics_Loading_Screen.gif)
+[Demo](Assets/Robotics_Loading_Screen.gif)
