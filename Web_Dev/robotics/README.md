@@ -1,1 +1,1 @@
-![Demo Video](Assets/Robotics_Loading_Screen.gif)
+[Demo Video](Assets/Robotics_Loading_Screen.gif)
