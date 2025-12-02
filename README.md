@@ -1,4 +1,4 @@
- <h1>The-Lab <img height="40" src="https://lucide.dev/icons/flask.svg" />
+ <h1>The-Lab 
 
 
 
