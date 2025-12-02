@@ -1,6 +1,6 @@
 ## Counter App
 
-The counter App is like the "Hello World" of react programming. It has simple functionality, if you press the '+' button the count increases by 1. If you press the '-' button, the count decreases by 1.
+The counter app is like the "Hello World" of react programming. It has simple functionality, if you press the '+' button the count increases by 1. If you press the '-' button, the count decreases by 1.
 
 ----
 
