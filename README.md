@@ -1,4 +1,5 @@
-# <h1>The-Lab <img height="40" src="https://cdn.simpleicons.org/flask/00aaff" />
+# <h1>The-Lab <img height="40" src="https://fonts.gstatic.com/s/i/materialicons/science/v6/24px.svg" />
+
  </h1>
 Micro projects for subjects like Reinforcement Learning, Deep Learning, Data Engineering, Web Dev etc.
 
