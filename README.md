@@ -1,4 +1,5 @@
- <h1>The-Lab <img height="40" src="https://cdn.simpleicons.org/scikitlearn" />
+ <h1>The-Lab <img height="40" src="https://cdn.simpleicons.org/flask" />
+
 
  </h1>
 Micro projects for subjects like Reinforcement Learning, Deep Learning, Data Engineering, Web Dev etc.
