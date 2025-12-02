@@ -1,5 +1,8 @@
+## Robotics Loading Animation
 
-<p> Loading-screen esque tiny react app made with React and Framer Motion, the letters and gear will change color if hovered over, the robots will continuously send out a cyan-colored pulse on their antennas</p>
+This is a custom loading animation I made for fun. The letters will change color and grow when hovered over. The gear in the middle will spin forever unless you hover it. THe two robots on the side will emit an antenna pulse forever as well. 
+
+-----
 
 ![Robotics Loading Screen](https://raw.githubusercontent.com/ahardwick95/The_Lab/main/Web_Dev/Assets/Robotics_Loading_Screen.gif)
 
