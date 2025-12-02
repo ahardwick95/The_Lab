@@ -1,6 +1,6 @@
 ## Robotics Loading Animation
 
-This is a custom loading animation I made for fun. The letters will change color and grow when hovered over. The gear in the middle will spin forever unless you hover it. THe two robots on the side will emit an antenna pulse forever as well. 
+This is a custom loading animation I made for fun. The letters will change color and grow when hovered over. The gear in the middle will spin forever unless you hover it. The two robots on the side will emit an antenna pulse forever as well. 
 
 -----
 
