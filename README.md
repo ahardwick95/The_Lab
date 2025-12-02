@@ -1,4 +1,4 @@
-# <h1>The-Lab <img src="https://img.shields.io/badge/Lab-Project-blue?style=flat&logo=lab&logoColor=white"/>
+# <h1>The-Lab <img height="40" src="https://cdn.simpleicons.org/flask/00aaff" />
  </h1>
 Micro projects for subjects like Reinforcement Learning, Deep Learning, Data Engineering, Web Dev etc.
 
