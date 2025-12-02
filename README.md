@@ -1,4 +1,5 @@
- <h1>The-Lab <img height="40" src="https://cdn.simpleicons.org/flask" />
+ <h1>The-Lab <img src="https://img.shields.io/badge/Chemistry-Lab-1f77b4?style=flat&logo=flask&logoColor=white"/>
+
 
 
  </h1>
